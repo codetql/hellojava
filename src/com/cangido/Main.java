@@ -9,5 +9,7 @@ public class Main {
         System.out.println("git ngon lanh");
 
         System.out.println("tuyet voi con voi");
+
+        System.out.println("test git ok");
     }
 }
