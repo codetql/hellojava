@@ -25,5 +25,7 @@ public class Main {
 
         System.out.println("Clone from GitHub\n");
         System.out.println("git clone <PASTE CLONE URL>\n");
+
+        System.out.println("git branch ???");
     }
 }
